@@ -1,0 +1,12 @@
+.ingredient-name {
+    width: 200px;
+}
+
+.ingredient {
+    display: flex;
+    justify-content: space-between;
+    border: 0.5px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+}
